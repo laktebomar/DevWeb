@@ -1,3 +1,3 @@
 # DevWeb
 a responsive static website using bootstrap framework, css and HTML. 
-here's a demo to the website: https://laktebomar.github.io/DevWeb/
+here's the website deployed using github pages: https://laktebomar.github.io/DevWeb/
