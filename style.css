@@ -145,12 +145,13 @@ p{
 }
 
     
-i{
+.container .raw .col-md-6 i{
     font-size: 24px;
     text-decoration:uppercase;
     }
   
    @media (max-width:728px){
-        font-size:16px;
+       .container .raw .col-md-6 i{
+           font-size:16px;}
     }
    
