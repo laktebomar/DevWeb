@@ -1,0 +1,179 @@
+nav{
+    background-color: transparent;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+nav a{
+    color: aliceblue;
+}
+.navbar .container-fluid .collapse .navbar-nav{
+    margin-left: 500px;        
+}
+.navbar .container-fluid a{
+    text-shadow: 0 0 8px gold, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+}
+
+body{
+    background-color: #021830;
+}
+
+.navbar .container-fluid .navbar-brand{
+    margin-left: 50px;
+
+        
+}
+
+.navbar .container-fluid .collapse .navbar-nav a{
+    padding-left:80px;
+    text-transform: uppercase;
+    color: aliceblue;
+    text-shadow: 0 0 8px gold, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+}
+
+@media (max-width: 1100px) {
+    .navbar .container-fluid .collapse .navbar-nav{
+        margin-left:-30px;
+    }
+    nav{
+        width: auto;
+    }
+
+  }
+
+.container .row {
+    justify-content: space-between;  
+    padding: 50px;
+
+}
+.button_animated{
+    align-items: center;
+    background-color:azure;
+    color: #021830;
+    text-transform: uppercase;
+    cursor:pointer;
+    transition: all 0.3s ease-in-out;
+}
+.button_animated:hover{
+    background-color: rgb(20, 20, 20);
+    color: antiquewhite;
+    font-size: 24px;
+    text-shadow: 0 0 8px white, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+}
+
+.cards {
+    padding-top: 100px; 
+    border-radius: 10%;
+    box-shadow: 5px 5px 10px gold, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+}
+.cards-padd{
+
+    
+}
+@media (max-width:1000px){
+    .margin{
+        margin-bottom: 10px;
+    }
+}
+.border{
+    margin-top: 15px;
+    align-items: center;
+    background-color: #ffa825 !important;
+    border-top:10px white solid;
+    box-shadow:0 0 8px gold, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+    width: 40%;
+    margin-left: 30%;
+}
+
+
+
+h2{
+    margin-top: 20px;
+    text-shadow: 0 0 8px red, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+    text-align: center;
+    font-size: 60px;
+}
+.zoom {
+    cursor: pointer;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.1); 
+    overflow: hidden;
+  }
+
+.container .row .col-md-4 img{
+    border-radius: 25%;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 2px 2px 4px 4px rgba(100, 0, 0, 0.8);
+    margin-bottom: 10px;
+}
+
+.col-4 {width: 25%;}
+.col-3   {width: 50%;}
+.col-9 {width: 75%;}
+@media  (max-width: 768px) {
+[class*="col-"] {
+width: 100%;
+align-items: center;
+}
+@media (max-width:1030px){
+    .container .row .col-md-4 img{
+        height: 250px;
+        width: 250px;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+h3{
+    text-shadow: 0 0 8px white, 0 0 15px firebrick, 0 0 30px pink, 0 0 60px red;
+    text-align: center;
+    font-size: 25px;
+}
+h5{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+/*
+header {
+	position:relative;
+	left:0;
+	top:0;
+	width:100%;
+	min-height:120px;
+	padding:50px 0;
+	color:#fff;
+	    background: #383838 url(https://www.athenadesignstudio.com/plugins/switch/images/bg.jpg) no-repeat center center;
+	margin-bottom:30px
+}
+
+/*
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900|Open Sans:400,600,800');
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+input,
+p,
+a {
+    font-family: "Open Sans";
+    margin: 0px;
+}
+*/
