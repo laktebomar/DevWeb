@@ -143,3 +143,14 @@ p{
     text-align: center;
     font-size: 20px;
 }
+
+    
+i{
+    font-size: 24px;
+    text-decoration:uppercase;
+    }
+  
+   @media (max-width:728px){
+        font-size:16px;
+    }
+   
