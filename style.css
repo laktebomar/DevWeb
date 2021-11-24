@@ -143,37 +143,3 @@ p{
     text-align: center;
     font-size: 20px;
 }
-
-
-
-
-
-/*
-header {
-	position:relative;
-	left:0;
-	top:0;
-	width:100%;
-	min-height:120px;
-	padding:50px 0;
-	color:#fff;
-	    background: #383838 url(https://www.athenadesignstudio.com/plugins/switch/images/bg.jpg) no-repeat center center;
-	margin-bottom:30px
-}
-
-/*
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900|Open Sans:400,600,800');
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-div,
-input,
-p,
-a {
-    font-family: "Open Sans";
-    margin: 0px;
-}
-*/
