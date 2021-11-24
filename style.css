@@ -146,8 +146,8 @@ p{
 
     
 .container .raw .col-md-6 i{
-    font-size: 24px;
-    text-decoration:uppercase;
+    font-size: 30px;
+    text-transform:uppercase;
     }
   
    @media (max-width:728px){
